@@ -6,7 +6,7 @@
   
   .photography-portfolio {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: white;
     min-height: 100vh;
     color: #333;
   }
@@ -220,7 +220,7 @@
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 20px;
-    background: linear-gradient(45deg, #667eea, #764ba2);
+    background: white;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
