@@ -2,57 +2,58 @@
 const projects = [
     {
         id: 1,
-        title: "Urban Reflections",
-        description: "A documentary series exploring the intersection of architecture and human emotion in modern cityscapes.",
-        image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop",
-        category: "Documentary",
-        year: "2024",
-        location: "New York City",
+        title: "Identity - Self",
+        description: "How do you fell in this moment? How does…your(self) feel?",
+        image: "./resources/Identity 4 copy.jpg",
+        category: "Fine Art",
+        year: "2021",
+        location: "Windsor, Ontario",
         equipment: "Canon EOS R5, 24-70mm f/2.8",
         fullDescription: "Urban Reflections is a deeply personal exploration of how architecture shapes our daily emotions and interactions. Shot over six months in various New York neighborhoods, this series captures the quiet moments when buildings become more than structures—they become witnesses to human stories.",
         concept: "The project examines the relationship between built environments and psychological states, using reflective surfaces and geometric compositions to create visual metaphors for urban life.",
-        tags: ["Street Photography", "Architecture", "Documentary", "Black & White"]
+        tags: ["Monochrome", "Architecture", "Fine Art", "Black & White", "conceptual photography"]
     },
     {
         id: 2,
-        title: "Ethereal Landscapes",
+        title: "Lost in Contemplation",
         description: "Minimalist compositions of natural environments captured during the golden hour.",
-        image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
-        category: "Landscape",
+        image: "./resources/IMG_2399 copy 2.jpg",
+        category: "Fine Art",
         year: "2023",
-        location: "Pacific Northwest",
+        location: "Bowmanville, Ontario",
         equipment: "Sony A7R IV, 16-35mm f/2.8",
         fullDescription: "This collection represents a year-long journey through the Pacific Northwest, seeking moments of perfect stillness in nature. Each image was captured during the brief window of golden hour, when light transforms ordinary landscapes into something magical.",
         concept: "Using minimalist composition and natural lighting, these photographs strip away distractions to reveal the essential beauty of untouched wilderness.",
-        tags: ["Landscape", "Minimalism", "Golden Hour", "Nature"]
+        tags: ["Dramatic lighting", "Cinematic", "Moody", "Low light", "Fine Art"]
     },
     {
         id: 3,
-        title: "Portrait Studies",
-        description: "Intimate character studies exploring the complexity of human expression and emotion.",
-        image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop",
-        category: "Portrait",
-        year: "2024",
-        location: "Studio & Location",
+        title: "Identity ||| - Rift",
+        description: "A rift in the mind, peering through different realities.",
+        image: "./resources/Identity 6.jpg",
+        category: "Fine Art",
+        year: "2021",
+        location: "Windsor, Ontario",
         equipment: "Nikon D850, 85mm f/1.4",
         fullDescription: "This ongoing series focuses on capturing the authentic self that exists between poses. Working with natural light and minimal setup, each session becomes a conversation about identity, vulnerability, and human connection.",
         concept: "These portraits aim to reveal the person behind the persona, using subtle lighting and composition to create images that feel both intimate and timeless.",
-        tags: ["Portrait", "Natural Light", "Character Study", "Emotion"]
+        tags: ["Experimental", "Abstract", "Fine Art", "Gritty texture"]
     },
     {
         id: 4,
-        title: "Abstract Motion",
-        description: "Experimental photography exploring movement and time through intentional camera movement.",
-        image: "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=600&fit=crop",
-        category: "Abstract",
-        year: "2023",
-        location: "Various",
+        title: "Identity || - Characters",
+        description: "Characters of different origins.",
+        image: "./resources/Identity 1.jpg",
+        category: "Fine Art",
+        year: "2021",
+        location: "Windsor, Ontario",
         equipment: "Fujifilm X-T4, Various Lenses",
         fullDescription: "Abstract Motion challenges traditional photography by embracing blur, movement, and the unpredictable. Using intentional camera movement and long exposures, this series creates painterly images that exist somewhere between photography and abstract art.",
         concept: "By abandoning sharp focus and static composition, these images explore how photography can capture the essence of movement and energy rather than just frozen moments.",
-        tags: ["Abstract", "Experimental", "Motion Blur", "Long Exposure"]
+        tags: ["Surreal", "Experimental", "psychological", "Black & White", "Fine Art"]
     },
     {
+        /*
         id: 5,
         title: "Cultural Heritage",
         description: "Documenting traditional crafts and cultural practices before they fade from memory.",
@@ -77,6 +78,7 @@ const projects = [
         fullDescription: "Night Visions reveals the transformation that occurs in cities after sunset. Using available light from street lamps, neon signs, and building illumination, this series shows how familiar urban spaces become mysterious and cinematic in darkness.",
         concept: "These images explore the duality of urban life—the energy and isolation, the artificial and natural light sources that create a unique nocturnal landscape.",
         tags: ["Night Photography", "Urban", "Available Light", "Cinematic"]
+        */
     }
 ];
 
