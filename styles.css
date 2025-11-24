@@ -63,7 +63,7 @@ body {
 .project-card:hover {
     transform: scale(1.05) translateY(-10px);
     box-shadow: 0 40px 80px rgba(0, 0, 0, 0.25);
-    background: rgba(255, 255, 255, 0.95);
+    background: linear-gradient(45deg, #2cd6ac, #259135);
     z-index: 10;
     animation-play-state: paused;
 }
@@ -187,7 +187,7 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 60px 20px;
-    color: white;
+    color: rgb(249, 248, 248);
 }
 
 .close-btn {
@@ -220,7 +220,7 @@ body {
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 20px;
-    background: linear-gradient(45deg, #667eea, #764ba2);
+    background: #419b74;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -260,7 +260,7 @@ body {
     font-size: 1.3rem;
     font-weight: 600;
     margin-bottom: 15px;
-    color: #667eea;
+    color: rgba(198, 240, 198, 0.3);
 }
 
 .info-text {
@@ -276,8 +276,8 @@ body {
 }
 
 .tech-tag {
-    background: linear-gradient(45deg, #667eea, #764ba2);
-    color: white;
+    background: linear-gradient(45deg, #2cd6ac, #259135);
+    color: rgb(250, 249, 249);
     padding: 8px 16px;
     border-radius: 20px;
     font-size: 0.9rem;

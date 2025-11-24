@@ -56,27 +56,27 @@ const projects = [
         /*
         id: 5,
         title: "Cultural Heritage",
-        description: "Documenting traditional crafts and cultural practices before they fade from memory.",
-        image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+        description: "",
+        image: "",
         category: "Documentary",
         year: "2024",
-        location: "Rural Communities",
+        location: "",
         equipment: "Leica Q2, Available Light",
-        fullDescription: "Cultural Heritage is a documentation project focused on preserving the visual record of traditional crafts and practices. Working closely with artisans and community members, this series captures not just the work, but the wisdom and stories behind generations-old traditions.",
-        concept: "Each photograph serves as both artistic expression and historical document, emphasizing the human element in cultural preservation.",
+        fullDescription: "",
+        concept: "",
         tags: ["Documentary", "Cultural", "Traditional Crafts", "Community"]
     },
     {
         id: 6,
-        title: "Night Visions",
-        description: "Exploring the hidden beauty of urban environments after dark.",
-        image: "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=800&h=600&fit=crop",
+        title: "",
+        description: "",
+        image: "",
         category: "Night Photography",
         year: "2023",
-        location: "Metropolitan Areas",
+        location: "",
         equipment: "Canon R6, 50mm f/1.2",
-        fullDescription: "Night Visions reveals the transformation that occurs in cities after sunset. Using available light from street lamps, neon signs, and building illumination, this series shows how familiar urban spaces become mysterious and cinematic in darkness.",
-        concept: "These images explore the duality of urban life—the energy and isolation, the artificial and natural light sources that create a unique nocturnal landscape.",
+        fullDescription: "",
+        concept: "T",
         tags: ["Night Photography", "Urban", "Available Light", "Cinematic"]
         */
     }
